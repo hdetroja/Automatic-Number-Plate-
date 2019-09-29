@@ -5,6 +5,7 @@
 - OpenCV 3
 - Python 3
 - Tensor Flow
+- MNIST Dataset used.
 
 # Flow
 
